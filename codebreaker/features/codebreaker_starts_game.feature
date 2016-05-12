@@ -8,4 +8,4 @@ Feature: code-breaker starts game
     Given I am not playing yet
     When I start a new game
     Then I should see "Welcome to Codebreaker!"
-    And I should see "Enter Guess:"
+    And I should see "Enter guess:"
